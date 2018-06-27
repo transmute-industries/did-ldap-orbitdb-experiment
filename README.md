@@ -4,6 +4,8 @@ This is an experiment combining decentralized identity (did-spec), decentralized
 
 In this demo, we show how to create a DID Document, how to use digital signature to authenticate that identity with an ldap server, and how to store the data used by ldap in ipfs, via orbitdb.
 
+[Austin Ethereum Meetup Deck](https://docs.google.com/presentation/d/1TKb11-qIIKL_7eHTfm875KmoVA1xyV7LuEEBfMjkczs)
+
 ### Getting Started
 
 ```
