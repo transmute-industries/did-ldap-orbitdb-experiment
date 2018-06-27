@@ -1,18 +1,18 @@
 {
   "@context": "https://w3id.org/did/v1",
-  "id": "did:eth:0xe562bcb9e301ea80b93862ab8790d43228dba9be",
+  "id": "did:eth:0xf3cc4da6b2facb3e8d19bdd44a4731634c6c9489",
   "publicKey": [
     {
-      "id": "did:eth:0xe562bcb9e301ea80b93862ab8790d43228dba9be#keys-1",
+      "id": "did:eth:0xf3cc4da6b2facb3e8d19bdd44a4731634c6c9489#keys-1",
       "type": "Secp256k1VerificationKey2018",
-      "owner": "did:eth:0xe562bcb9e301ea80b93862ab8790d43228dba9be",
-      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v3.0.10\r\nComment: https://openpgpjs.org\r\n\r\nxk8EWyj1AxMFK4EEAAoCAwTYBrx4wGiRIAo+0KmlXZMMTkHz2C+N6sWjTUTk\nocIYxpicCQpe8JzUR5p2bgu4t8URgOssC9QpQ8pWt9SFqarlzRxUZXN0IFVz\nZXIgPHRlc3RAZXhhbXBsZS5jb20+wncEEBMIACkFAlso9QMGCwkHCAMCCRD0\nmRCvx05aaQQVCAoCAxYCAQIZAQIbAwIeAQAA0HABAMle3iter0BQl/mcqX07\nmfh1FH6gnuKL0FWZ9fuJM6H4AP0a/qtz49IZ/GMNHmteCZiT/f0outyc2Myn\noLdn2p9qBM5TBFso9QMSBSuBBAAKAgME0I8V2G3/8h33g1/2f2Ysk6DuLXBf\nbEjw8/JpI3RJct6xvnw4Uhpsa2bztPV3vi6xekeKxK3o6rQ9fiwdufr4igMB\nCAfCYQQYEwgAEwUCWyj1AwkQ9JkQr8dOWmkCGwwAAL3OAP0cpU9SJH8erjyo\nP3n8mLUwAvtIblWpHoFZkfz8o0TDHgEA/97HFIhsA2/mrgALp0ZD7ue0zw2F\n1pw5tO5pZbwUwGU=\r\n=4JTZ\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n\r\n"
+      "owner": "did:eth:0xf3cc4da6b2facb3e8d19bdd44a4731634c6c9489",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v3.0.10\r\nComment: https://openpgpjs.org\r\n\r\nxk8EWzQWNRMFK4EEAAoCAwR8EAhPW/6wZqGoS38AbejfsTwEpdT6v0gIcehE\nHTXZjFjqIkVKS5SECZNjR2o51nRsg52yFY917rgqv65DEPlJzRxUZXN0IFVz\nZXIgPHRlc3RAZXhhbXBsZS5jb20+wncEEBMIACkFAls0FjUGCwkHCAMCCRD6\nJudJl4Z8vwQVCAoCAxYCAQIZAQIbAwIeAQAAVBkBAICY6BRuA9kOFr0ovQu9\nKgs6tUmXYtrTAIWKPL27xxdhAQCS1enQjUE5HXPdyJiGB4QR2eYbeqYTvNdM\nnAAv5Wz4Qs5TBFs0FjUSBSuBBAAKAgMEXdkGE43TQtz9dAHIctqI1NjRYAz7\nYDcZMMldCOvg8uIH3qcdM76GaWv7/KnrY9h7NI9FO7wG1hqTw7d4YFfMLQMB\nCAfCYQQYEwgAEwUCWzQWNQkQ+ibnSZeGfL8CGwwAAB71AP9dt0Jpr6o4+ZWu\nAWLEt17OBpTA6Y8cQ5/bNCxAaiEHMgEAsGfSAVB5eNlD4J0rreyxKyUrPZDP\nBQ2CDPqV/tDvTXk=\r\n=4fqx\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n\r\n"
     }
   ],
   "authentication": [
     {
       "type": "Secp256k1SignatureAuthentication2018",
-      "publicKey": "did:eth:0xe562bcb9e301ea80b93862ab8790d43228dba9be#keys-1"
+      "publicKey": "did:eth:0xf3cc4da6b2facb3e8d19bdd44a4731634c6c9489#keys-1"
     }
   ]
 }

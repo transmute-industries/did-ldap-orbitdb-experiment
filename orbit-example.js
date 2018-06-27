@@ -1,7 +1,7 @@
 const IPFS = require('ipfs');
 const OrbitDB = require('orbit-db');
 
-const did_document = require('./src/__fixtures__/did/joe.bob@example.com/did_document.json');
+const did_document = require('./src/__fixtures__/did/test@example.com/did_document.json');
 
 const ipfsOptions = {
   EXPERIMENTAL: {

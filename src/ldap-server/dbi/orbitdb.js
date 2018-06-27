@@ -1,5 +1,5 @@
 const baseDN = process.env.LDAP_BASEDN || 'dc=example, dc=com';
-const root_did_doc = require('../../__fixtures__/did/joe.bob@example.com/did_document.json');
+const root_did_doc = require('../../__fixtures__/did/test@example.com/did_document.json');
 const root_dn = `uid=${root_did_doc.id}, dc=example, dc=com`;
 
 console.log('\nRoot DN: ', root_dn);

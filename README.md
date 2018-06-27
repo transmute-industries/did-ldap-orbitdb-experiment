@@ -1,6 +1,6 @@
 # DID LDAP IPFS / OrbitDB
 
-This is an expermiment combining decentralized identity (did-spec), decentralized database technology (orbitdb/ipfs), ldap and OpenPGP.
+This is an experiment combining decentralized identity (did-spec), decentralized database technology (orbitdb/ipfs), ldap and OpenPGP.
 
 In this demo, we show how to create a DID Document, how to use digital signature to authenticate that identity with an ldap server, and how to store the data used by ldap in ipfs, via orbitdb.
 
@@ -13,6 +13,7 @@ docker-compose up
 # for the LDAP Server
 npm i
 npm run test
+node ./orbit-example.js
 node ./src/ldap-server/run.js 
 ```
 

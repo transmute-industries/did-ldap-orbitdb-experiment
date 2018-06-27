@@ -11,8 +11,8 @@ const _sodium = require('libsodium-wrappers');
 
 const port = 1389;
 
-const EMAIL = 'joe.bob@example.com';
-const PASSPHRASE = 'its a good day to die.';
+const EMAIL = 'test@example.com';
+const PASSPHRASE = 'it is a good day to die.';
 const DID_DOC = require(`../../__fixtures__/did/${EMAIL}/did_document.json`);
 
 let sodium;
